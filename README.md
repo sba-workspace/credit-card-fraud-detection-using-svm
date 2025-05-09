@@ -75,4 +75,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - The dataset used in this project is from Kaggle's Credit Card Fraud Detection dataset
-- Thanks to all contributors who helped in improving this project
